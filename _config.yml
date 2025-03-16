@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : #"en-US"
 site_theme               : "default"
-title                    : "Joan Ferrer Rodríguez"
+title                    : "Joan Ferrer"
 title_separator          : "-"
 name                     : &name "Joan Ferrer Rodríguez"
 description              : &description "I am a PhD student at the University of Copenhagen. I work in the Algebra and Geometry section under the supervision of Elisend Feliu and Máté L. Telek"
@@ -23,7 +23,7 @@ repository               : "joan-ferrer/joan-ferrer.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Joan Ferrer"
+  name             : "Joan Ferrer Rodríguez"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at the University of Copenhagen"
   location         : "Copenhagen, Denmark"
