@@ -4,7 +4,7 @@ collection: teaching
 type: "M.Sc. course"
 permalink: /teaching/2024_Advanced_vector_spaces
 venue: "University of Copenhagen"
-date: "09/24-11/24"
+date: 2024-09-01
 location: "Copenhagen, Denamrk"
 ---
 
