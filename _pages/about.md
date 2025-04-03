@@ -7,5 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Joan, a PhD student at the Univeristy of Copenhagen. I work in the Algebra and Gemoetry section, under the supervision of [Elisenda Feliu](https://web.math.ku.dk/~efeliu/) and [Máté L. Telek](https://matetelek.wordpress.com/). My research interests revolve around real algebraic geometry and its applications in reaction networks theory and optimization. My work is funded by the ERC consolidator grant  “Signs, polynomials, and reaction networks” POSALG-101044561 with Elisenda Feliu as the Principal Investigator.
+Hi! I am Joan, a PhD student at the Univeristy of Copenhagen. I work in the Algebra and Gemoetry section, under the supervision of [Elisenda Feliu](https://web.math.ku.dk/~efeliu/) and [Máté L. Telek](https://matetelek.wordpress.com/). My research interests revolve around real algebraic geometry and its applications in reaction networks theory and optimization. 
+
+My work is funded by the ERC consolidator grant  “Signs, polynomials, and reaction networks” POSALG-101044561 with Elisenda Feliu as the Principal Investigator.
 
