@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joan Ferrer's webpage"
+title: "Joan Ferrer"
 author_profile: true
 redirect_from: 
   - /about/
