@@ -8,4 +8,4 @@ date: 2025-07-09
 location: "Madison, WI, USA"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+The talk was given in the mini-symposium "The Intersection of Polynomial Optimization, Dynamics, and Combinatorics".
