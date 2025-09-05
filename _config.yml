@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : #"en-US"
 site_theme               : "default"
-title                    : "Joan Ferrer"
-title_separator          : "-"
-name                     : &name "Joan Ferrer Rodríguez"
+title                    : ""
+title_separator          : ""
+name                     : &name "Joan Ferrer"
 description              : &description "I am a PhD student at the University of Copenhagen. I work in the Algebra and Geometry section under the supervision of Elisend Feliu and Máté L. Telek"
 url                      : https://joan-ferrer.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "joan-ferrer/joan-ferrer.github.io"
 author:
   # Biographic information
   avatar           : "photo_website.jpg"
-  name             : "Joan Ferrer Rodríguez"
+  name             : "Joan Ferrer"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at the University of Copenhagen"
   location         : "Copenhagen, Denmark"
